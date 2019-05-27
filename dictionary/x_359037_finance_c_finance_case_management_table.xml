@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Finance Case Management Table" max_length="40" name="x_359037_finance_c_finance_case_management_table" sizeclass="1" type="collection"/>
+</database>

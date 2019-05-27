@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="08142e74dba133000128f7af299619dd" sys_domain="global" table="x_359037_finance_c_finance_case_management_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-19 00:13:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c14ae74dba133000128f7af29961909</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_359037_finance_c_finance_case_management_table" name="x_359037_finance_c_finance_case_management_table" sys_domain="global" view="Default view">08142e74dba133000128f7af299619dd</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_359037_finance_c_finance_case_management_table" sys_domain="global" view="Default view">c2eddebcdb6133000128f7af2996197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-19 00:13:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-19 00:13:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1814ae74dba133000128f7af2996190a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_359037_finance_c_finance_case_management_table" name="x_359037_finance_c_finance_case_management_table" sys_domain="global" view="Default view">08142e74dba133000128f7af299619dd</sys_ui_form>
+            <sys_ui_section caption="Annotation" display_value="Annotation" name="x_359037_finance_c_finance_case_management_table" sys_domain="global" view="Default view">0c142e74dba133000128f7af299619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-19 00:13:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_359037_finance_c_finance_case_management_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-19 00:13:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08142e74dba133000128f7af299619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_359037_finance_c_finance_case_management_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Finance Case Management" source="x_359037_finance_c">a61c5abcdb6133000128f7af299619dc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance Case Management">a61c5abcdb6133000128f7af299619dc</sys_scope>
+            <sys_update_name>sys_ui_form_sections_08142e74dba133000128f7af299619dd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-19 00:13:45</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
